@@ -12,7 +12,14 @@ body {
 }
 
 /* Write your CSS here */
+<<<<<<< HEAD
 .main-container {
   background-color: white;
   padding: 20px;
 }
+=======
+.main-container{
+  background-color: white;
+  padding: 20px;
+}
+>>>>>>> 998b569ccffed0f3cd5a4d03431362df9399b778

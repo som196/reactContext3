@@ -9,7 +9,10 @@
   display: flex;
   flex-direction: column;
   margin-bottom: 10px;
+<<<<<<< HEAD
   height: 40%;
+=======
+>>>>>>> 998b569ccffed0f3cd5a4d03431362df9399b778
 }
 .controls-container {
   display: flex;

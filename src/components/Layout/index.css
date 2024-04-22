@@ -1,6 +1,10 @@
 .layout-container {
   background-color: white;
+<<<<<<< HEAD
   height: 60%;
+=======
+  height: 70vh;
+>>>>>>> 998b569ccffed0f3cd5a4d03431362df9399b778
 }
 .body-container {
   display: flex;
