@@ -1,0 +1,25 @@
+.layout-heading {
+  font-size: 25px;
+  color: white;
+}
+.background-container {
+  background-color: #475569;
+  background-size: cover;
+  padding-left: 40px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+  height: 40%;
+}
+.controls-container {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+  color: white;
+  align-items: flex-start;
+}
+.checkbox-container {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 10px;
+}
